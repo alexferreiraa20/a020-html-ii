@@ -13,7 +13,7 @@
   }
   
   main, .b{
-    height: 90vh;
+    height: 100vh;
     display: flex;
     flex-direction: row;
     align-items: stretch;
@@ -42,3 +42,14 @@
     color: white;
   }
   
+  img {
+    max-width: 10%;
+  }
+
+  video {
+    max-width: 10%;
+  }
+
+  audio {
+    max-width: 10%;
+  }
